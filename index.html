@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDIPNA</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <h1 class="title">EDIPNA</h1>
+    <section>
+        <label class="lbl__select" for="select__level">Selecciona el nivel a practicar</label>
+        <select id="select__level" class="btn btn__select">
+            <option>I1</option>
+            <option>I2</option>
+            <option>I3</option>
+        </select>
+        <div class="container container__game">
+            <div class="container__wordEnglish box">
+                <p class="word_English">Wait a moment ,please</p>
+            </div>
+            <div class="container__translate box">
+                <textarea placeholder="Ingrese aquí la traducción en Ingles." class="response__txtarea"></textarea>
+            </div>
+            <div class="container__Message">
+                <p class="txt__message"></p>
+            </div>
+            <div class="container__buttonsGame">
+                <p class="txt__answerCorrect"></p>
+                <button class="btn btn__verify">Verificar</button>
+                <button class="btn btn__continue">Continuar</button>
+            </div>
+            
+        </div>
+    </section>
+    <section>
+        <footer>
+            <div class="container__footer">
+                Con cariño @eduardo_mjo
+            </div>
+        </footer>
+    </section>
+    <script src="script.js" ></script>
+</body>
+</html>
