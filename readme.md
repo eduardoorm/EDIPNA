@@ -17,4 +17,8 @@
 7. [Conclusión](#id7)
 
 ## Descripción del proyecto<a name="id1"></a>
-Texto del primer apartado
+Proyecto en desarrollo que utiliza las palabras del vocabulario de los libros del Instituto Cultura Peruano Norteamericano. <br>
+Este proyecto servirá a los estudiantes poder prácticar el vocabulario de los diferentes niveles de una manera fácil y rápida.
+
+## Estado del proyecto<a name="id2"></a>
+:construction: Proyecto en construcción :construction:
