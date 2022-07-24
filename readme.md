@@ -13,7 +13,7 @@
 3. [Características y demostración de la app web](#id3)<br>
 4. [Acceso al Proyecto](#id4)<br>
 5. [Tecnologías utilizas](#id5)<br>
-6. [Peronas-Desarrolladores del Proyecto]("#id6)<br>
+6. [Personas-Desarrolladores del Proyecto]("#id6)<br>
 7. [Conclusión](#id7)
 
 ## Descripción del proyecto<a name="id1"></a>
@@ -36,7 +36,7 @@ Este proyecto permitirá a los estudiantes prácticar el vocabulario de los dife
 ## 📁 Acceso al proyecto <a name="id4"></a>
 El proyecto se encuentra libre para ser descargado y utilizarlo localmente.
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas<a name="id5"></a>
 <ul>
 <li>JavaScript</li>
 <li>HTML</li>
@@ -44,7 +44,10 @@ El proyecto se encuentra libre para ser descargado y utilizarlo localmente.
 <li>GITHUB</li>
 </ul>
 
-## Personas contribuyentes
+## Personas contribuyentes<a name="id6"></a>
 
 <img width=115 height="115" src="./images/My-octocat.png"></img><br>
 Eduardo Ormeño 
+
+## Conclusión<a name="id7"></a>
+Proyecto sin fines de lucro construido para brindar una opción de repaso y/o estudio a los estudiantes. 
