@@ -45,5 +45,6 @@ El proyecto se encuentra libre para ser descargado y utilizarlo localmente.
 </ul>
 
 ## Personas contribuyentes
-Eduardo Ormeño
-<img src="My-octocat.png"></img>
+
+<img width=115 height="115" src="My-octocat.png"></img><br>
+Eduardo Ormeño 
