@@ -30,7 +30,7 @@ Este proyecto permitirá a los estudiantes prácticar el vocabulario de los dife
 - `Funcionalidad 3a`: Si la respuesta es correcta, la aplicación elimina la palabra.
 - `Funcionalidad 3b`: Si la respuesta es incorrecta, la aplicación enviá la palabra al último lugar de la lista y la vuelve a mostrar cuando llegué su turno para ser visualizada.
 - `Funcionalidad 4`: Si la respuesta ingresada por el usuario es correcta el sistema mostrará el mensaje "Correcto".
--`Funcionalidad 4a`: Si la respuesta ingresada por el usuario es incorrecta el sistema mostrará el mensaje "Incorrecto" y mostrará la respuesta correcta.
+- `Funcionalidad 4a`: Si la respuesta ingresada por el usuario es incorrecta el sistema mostrará el mensaje "Incorrecto" y mostrará la respuesta correcta.
 - `Funcionalidad 5`: Si se da click en el botón continuar la aplicación muestra la siguiente palabra en ingles de la lista para ser traducida.
 
 ## 📁 Acceso al proyecto <a name="id4"></a>
@@ -41,4 +41,7 @@ El proyecto se encuentra libre para ser descargado y utilizarlo localmente.
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
+<li>GITHUB</li>
 </ul>
+
+## Personas contribuyentes
