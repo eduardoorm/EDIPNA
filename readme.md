@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="LOGOS.png" width=180px height=180px>
+<h1 align="center"> <img src="./images/LOGOS.png" width=180px height=180px>
 </h1>
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green??style=for-the-badge&logo=appveyor">
@@ -46,5 +46,5 @@ El proyecto se encuentra libre para ser descargado y utilizarlo localmente.
 
 ## Personas contribuyentes
 
-<img width=115 height="115" src="My-octocat.png"></img><br>
+<img width=115 height="115" src="./images/My-octocat.png"></img><br>
 Eduardo Ormeño 
