@@ -1,0 +1,37 @@
+{
+    "I3":[
+        {"en":"Blink","es":"parpadear"},
+        {"en":"Breathe","es":"respirar"},
+        {"en":"Chew","es":"masticar"},
+        {"en":"Make sense","es":"tener sentido"},
+        {"en":"Swallow","es":"tragar"},
+        {"en":"Symptom","es":"síntoma"},
+        {"en":"care","es":"atención"},
+        {"en":"homesick","es":"nostálgico"},
+        {"en":"carsick","es":"mareado"},
+        {"en":"lovesick","es":"enfermo de amor"},
+        {"en":"seasick","es":"mareado"},
+        {"en":"behaved","es":"se comportó"},
+        {"en":"might","es":"puede"},
+        {"en":"boss around","es":"jefe de la zona"},
+        {"en":"chaos","es":"caos"},
+        {"en":"cut class","es":"clase de corte"},
+        {"en":"fatigue","es":"fatiga"},
+        {"en":"gentle","es":"suave"},
+        {"en":"meditation ","es":"meditación"},
+        {"en":"paralyze","es":"paralizar"},
+        {"en":"straightforward","es":"directamente"},
+        {"en":"tidy","es":"respirar"},
+        {"en":"treat","es":"tratar"},
+        {"en":"yoga","es":"yoga"}
+    ],
+    "I2":[
+        {"en":"Breathe","es":"respirar"},
+        {"en":"Blink","es":"parpadear"}
+    ],
+    "I1":[
+        {"en":"treat","es":"tratar"},
+        {"en":"yoga","es":"yoga"}
+    ]
+}
+    
