@@ -13,7 +13,7 @@
 3. [Características y demostración de la app web](#id3)<br>
 4. [Acceso al Proyecto](#id4)<br>
 5. [Tecnologías utilizas](#id5)<br>
-6. [Personas-Desarrolladores del Proyecto]("#id6)<br>
+6. [Personas-Desarrolladores del Proyecto](#id6)<br>
 7. [Conclusión](#id7)
 
 ## Descripción del proyecto<a name="id1"></a>
